@@ -1,4 +1,4 @@
-# DataInsightsByJoeyHernandez
+# Google-Advanced-Data-Analytics-Professional-Certificate
 
 Verify Link - https://www.coursera.org/account/accomplishments/specialization/certificate/N96DSULKAMUN
 
